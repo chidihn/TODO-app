@@ -1,0 +1,16 @@
+{
+  "main.css": "/TODO-app/static/css/main.600b4e48.chunk.css",
+  "main.js": "/TODO-app/static/js/main.cc85f3bf.chunk.js",
+  "main.js.map": "/TODO-app/static/js/main.cc85f3bf.chunk.js.map",
+  "runtime~main.js": "/TODO-app/static/js/runtime~main.06c25359.js",
+  "runtime~main.js.map": "/TODO-app/static/js/runtime~main.06c25359.js.map",
+  "static/js/2.4f3398c8.chunk.js": "/TODO-app/static/js/2.4f3398c8.chunk.js",
+  "static/js/2.4f3398c8.chunk.js.map": "/TODO-app/static/js/2.4f3398c8.chunk.js.map",
+  "index.html": "/TODO-app/index.html",
+  "precache-manifest.d243d8d19623ddbbfd7bd7a6bc318444.js": "/TODO-app/precache-manifest.d243d8d19623ddbbfd7bd7a6bc318444.js",
+  "service-worker.js": "/TODO-app/service-worker.js",
+  "static/css/main.600b4e48.chunk.css.map": "/TODO-app/static/css/main.600b4e48.chunk.css.map",
+  "static/media/check.svg": "/TODO-app/static/media/check.40eb9cc6.svg",
+  "static/media/checkdone.svg": "/TODO-app/static/media/checkdone.d29f1779.svg",
+  "static/media/tick.svg": "/TODO-app/static/media/tick.c0cbd084.svg"
+}
